@@ -23,7 +23,8 @@ c.InteractiveShellApp.extensions = [
 ]
 
 # Startup code.
-c.InteractiveShellApp.exec_lines = []
+c.InteractiveShellApp.exec_lines = [
+]
 
 # Enable matplotlib renderings to show up inline in the notebook.
 c.InteractiveShellApp.matplotlib = 'inline'
